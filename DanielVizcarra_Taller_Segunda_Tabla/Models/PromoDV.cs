@@ -1,8 +1,12 @@
-﻿namespace DanielVizcarra_EjercicioCF.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace DanielVizcarra_EjercicioCF.Models
 {
     public class PromoDV
     {
+        [Key]
         public int PromoID { get; set; }
+        
         public string? Descripcion { get; set; }
         public DateTime FechaPromo { get; set; }
 

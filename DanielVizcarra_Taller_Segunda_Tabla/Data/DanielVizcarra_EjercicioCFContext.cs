@@ -15,5 +15,6 @@ namespace DanielVizcarra_EjercicioCF.Data
         }
 
         public DbSet<DanielVizcarra_EjercicioCF.Models.BurgerDV> BurgerDV { get; set; } = default!;
+        public DbSet<DanielVizcarra_EjercicioCF.Models.PromoDV> PromoDV { get; set; } = default!;
     }
 }
