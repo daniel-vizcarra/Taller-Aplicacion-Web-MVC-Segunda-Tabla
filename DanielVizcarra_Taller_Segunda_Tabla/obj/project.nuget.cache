@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IjVX0mwie1L9hQwYwQcGqGujCAL3H6m4gX6DUTC4VMlGHVbLHM1+EKQFzgyAI0E4GgsaC5HJ2GHsO+z2Me2GnQ==",
+  "dgSpecHash": "78vfSlNuQqEyr3UVMmsb1n/hM+8wnrTWsIHwuDkjrFEzj49mogWJ0Uvb5nBCLUoRwIJvrYpLKCFdnKeexf+k4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\DanielVizcarra_EjercicioCF.csproj",
+  "projectFilePath": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\DanielVizcarra_EjercicioCF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laboratorio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\laboratorio\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

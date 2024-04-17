@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\DanielVizcarra_EjercicioCF.csproj",
+      "projectUniqueName": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\DanielVizcarra_EjercicioCF.csproj",
       "projectName": "DanielVizcarra_EjercicioCF",
-      "projectPath": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\DanielVizcarra_EjercicioCF.csproj",
+      "projectPath": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\DanielVizcarra_EjercicioCF.csproj",
       "packagesPath": "C:\\Users\\laboratorio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\obj\\",
+      "outputPath": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

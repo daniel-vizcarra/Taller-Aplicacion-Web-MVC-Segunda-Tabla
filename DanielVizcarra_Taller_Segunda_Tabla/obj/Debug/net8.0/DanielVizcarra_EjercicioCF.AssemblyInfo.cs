@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DanielVizcarra_EjercicioCF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83b510497ad581af0899b1b79e78987cf56f2c89")]
 [assembly: System.Reflection.AssemblyProductAttribute("DanielVizcarra_EjercicioCF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DanielVizcarra_EjercicioCF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

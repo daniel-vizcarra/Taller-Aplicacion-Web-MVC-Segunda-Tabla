@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\",
+  "WorkspaceRootPath": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\models\\burgerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\models\\burgerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:models\\burgerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\models\\promodv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:models\\promodv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\controllers\\burgerdvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\controllers\\burgerdvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:controllers\\burgerdvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\views\\burgerdvs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\views\\burgerdvs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:views\\burgerdvs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\views\\burgerdvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\views\\burgerdvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:views\\burgerdvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\migrations\\20240410161831_cambiosbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\documents\\github\\taller-aplicacion-web-mvc-segunda-tabla\\danielvizcarra_taller_segunda_tabla\\migrations\\20240410161831_cambiosbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:migrations\\20240410161831_cambiosbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,32 +42,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromoDV.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Models\\PromoDV.cs",
+              "RelativeDocumentMoniker": "Models\\PromoDV.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Models\\PromoDV.cs",
+              "RelativeToolTip": "Models\\PromoDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:25:16.637Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T16:22:52.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T16:22:52.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Views\\BurgerDVs\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\BurgerDVs\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Views\\BurgerDVs\\Edit.cshtml",
               "RelativeToolTip": "Views\\BurgerDVs\\Edit.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -71,11 +87,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Views\\BurgerDVs\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\BurgerDVs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Views\\BurgerDVs\\Index.cshtml",
               "RelativeToolTip": "Views\\BurgerDVs\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -83,11 +99,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20240410161831_CambiosBdd.cs",
-              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Migrations\\20240410161831_CambiosBdd.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Migrations\\20240410161831_CambiosBdd.cs",
               "RelativeDocumentMoniker": "Migrations\\20240410161831_CambiosBdd.cs",
-              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Migrations\\20240410161831_CambiosBdd.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Migrations\\20240410161831_CambiosBdd.cs",
               "RelativeToolTip": "Migrations\\20240410161831_CambiosBdd.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\appsettings.json",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -107,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BurgerDVsController.cs",
-              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Controllers\\BurgerDVsController.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Controllers\\BurgerDVsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BurgerDVsController.cs",
-              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Controllers\\BurgerDVsController.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Controllers\\BurgerDVsController.cs",
               "RelativeToolTip": "Controllers\\BurgerDVsController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAA1wBYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,11 +137,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BurgerDV.cs",
-              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Models\\BurgerDV.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Models\\BurgerDV.cs",
               "RelativeDocumentMoniker": "Models\\BurgerDV.cs",
-              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Models\\BurgerDV.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\Taller-Aplicacion-Web-MVC-Segunda-Tabla\\DanielVizcarra_Taller_Segunda_Tabla\\Models\\BurgerDV.cs",
               "RelativeToolTip": "Models\\BurgerDV.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T15:51:20.406Z",
               "EditorCaption": ""
