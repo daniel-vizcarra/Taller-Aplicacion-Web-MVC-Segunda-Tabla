@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DanielVizcarra_EjercicioCF.props" />
+</Project>

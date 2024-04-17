@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\models\\burgerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:models\\burgerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\controllers\\burgerdvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:controllers\\burgerdvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\views\\burgerdvs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:views\\burgerdvs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\views\\burgerdvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:views\\burgerdvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\downloads\\programacioniv-main\\programacioniv-main\\danielvizcarra_ejerciciocf\\migrations\\20240410161831_cambiosbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:migrations\\20240410161831_cambiosbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:22:52.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BurgerDVs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BurgerDVs\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:22:09.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BurgerDVs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Views\\BurgerDVs\\Index.cshtml",
+              "RelativeToolTip": "Views\\BurgerDVs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:21:59.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240410161831_CambiosBdd.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Migrations\\20240410161831_CambiosBdd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240410161831_CambiosBdd.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Migrations\\20240410161831_CambiosBdd.cs",
+              "RelativeToolTip": "Migrations\\20240410161831_CambiosBdd.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:18:31.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T16:11:25.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BurgerDVsController.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Controllers\\BurgerDVsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BurgerDVsController.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Controllers\\BurgerDVsController.cs",
+              "RelativeToolTip": "Controllers\\BurgerDVsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:54:48.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BurgerDV.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Models\\BurgerDV.cs",
+              "RelativeDocumentMoniker": "Models\\BurgerDV.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Downloads\\ProgramacionIV-main\\ProgramacionIV-main\\DanielVizcarra_EjercicioCF\\Models\\BurgerDV.cs",
+              "RelativeToolTip": "Models\\BurgerDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:51:20.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
